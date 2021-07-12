@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# A beautiful image
+
+![Image of a beautiful beach](https://octodex.github.com/images/yaktocat.png)
